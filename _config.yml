@@ -1,8 +1,8 @@
 # Site
-title:              Massively
+title:              Agencia Villa
 bio:                'Jekyll version of the Massively theme by HTML5UP'
 description:        "Jekyll version of the Massively theme by HTML5UP"
-locale:             en_US
+locale:             CDMX
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
@@ -12,8 +12,8 @@ disqus_shortname:   default
 # Social
 analytics-id:       "default"
 twitter:            bryanvilla_X0
-facebook:           default
-instagram:          default
+facebook:           bryan.X0
+instagram:          _bryan.xo
 github:             default
 
 # personal
